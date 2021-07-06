@@ -1,0 +1,4 @@
+D:\OneDrive\VS Solutions\HS2_YuriPlus\obj\Debug\net35\HS2_YuriPlus.csprojAssemblyReference.cache
+D:\OneDrive\VS Solutions\HS2_YuriPlus\obj\Debug\net35\HS2_YuriPlus.csproj.CoreCompileInputs.cache
+D:\OneDrive\VS Solutions\HS2_YuriPlus\obj\Debug\net35\HS2_YuriPlus.AssemblyInfoInputs.cache
+D:\OneDrive\VS Solutions\HS2_YuriPlus\obj\Debug\net35\HS2_YuriPlus.AssemblyInfo.cs
